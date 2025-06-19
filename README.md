@@ -1,1 +1,1 @@
-Projeto do Agrinho 2025 tema Conexação Campo Cidade. 
+O site Conexão Campo e Cidade foi desenvolvido com o objetivo de destacar as diferenças e relações entre a vida no campo e na cidade, promovendo a valorização de ambos os ambientes. Ele apresenta uma interface limpa e moderna, com uma tipografia clara e seções bem definidas.
